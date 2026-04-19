@@ -1,6 +1,6 @@
 # Hi, I'm Diony Costa 👋
 
-Software Engineer focused on building production-ready applications with strong emphasis on security and real-world impact.
+Software Engineer building scalable AI systems, secure platforms, and production-ready applications.
 
 🚀 Built and shipped a cross-platform application used in production (KeepSafe)
 🔐 Focused on secure systems and scalable architectures
@@ -17,6 +17,23 @@ Software Engineer focused on building production-ready applications with strong 
 - Cross-platform development with Flutter
 - Backend systems with PostgreSQL
 - Security systems (bcrypt, AES-GCM, PBKDF2)
+
+<p align="center">
+  <img src="https://github.com/wazark/Keep_Safe/blob/main/screenshots/02_home.jpeg" width="200"/>
+</p>
+
+---
+
+### 🤖 OrbyChat – AI Platform
+- Full-stack AI chat system
+- Serverless backend + PostgreSQL
+- Secure authentication and session system
+
+<p align="center">
+  <img src="https://github.com/wazark/orbychat-ai-platform/blob/main/screenshots/02_dashboard.png" width="600"/>
+</p>
+
+## 🚀 Featured Work
 
 ### 🚨 Fraud Detection Engine (in development)
 - Real-time fraud detection system
